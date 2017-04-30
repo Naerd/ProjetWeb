@@ -1,0 +1,5 @@
+#videos > div {	padding-left: 0; }
+#left_column { width: 280px; }
+@media (max-width: 1200px){
+	#left_column { width: 100%; }
+}
