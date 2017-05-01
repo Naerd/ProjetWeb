@@ -1,5 +1,5 @@
 # ProjetWeb
-Sasha Collomé & Axel Rostagny
+Sasha Collomé & Axel Rostagny \n
 Solution de développement retenue : Prestashop
 Support de développement : Mac
 Répartition des tâches :
