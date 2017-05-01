@@ -6,5 +6,5 @@ Support de développement : Mac
 Sasha => Développeur & intégrateur prestashop sur Mac  
 Axel => Gestion du Git, documentation & recherche de contenu pour le site  
 
-# Utilisation
+### Utilisation
 Lancer serveur PHP, ouvrir "mon site web", choix de vue partie admin ou partie client simple
