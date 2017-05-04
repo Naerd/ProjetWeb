@@ -8095,7 +8095,7 @@ li.product-flag.on-sale {
 }
 
 #header {
-    background: #767676;
+    background: #878787;
     color: #acaaa6;
 }
 #header .logo {
@@ -8230,7 +8230,7 @@ li.product-flag.on-sale {
     font-family: inherit;
 }
 #wrapper {
-    background: #6e6e6e;
+    background: #999;
     box-shadow: inset 0 2px 5px 0 rgba(0, 0, 0, .11);
     padding-top: 1.5625rem;
 }
@@ -8257,12 +8257,12 @@ li.product-flag.on-sale {
 }
 #wrapper .breadcrumb li:after {
     content: "/";
-    color: #878787;
+    color: #000;
     margin: .3125em;
 }
 #wrapper .breadcrumb li:last-child {
     content: "/";
-    color: #878787;
+    color: #000;
     margin: 0;
 }
 #wrapper .breadcrumb li:last-child:after {
@@ -8287,7 +8287,7 @@ li.product-flag.on-sale {
     margin-bottom: 0;
 }
 #footer {
-    background : #f5f5f5;
+    background : #d2d2d2;
     padding-top: 2.5rem;
 }
 @media (max-width:767px) {
